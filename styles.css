@@ -1,0 +1,21 @@
+h1{
+    text-shadow:darkblue;
+    color:black (255, 0, 0);
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+.veronica{
+    display: flex;
+}
+nav {
+text-align: center;
+text-shadow: black;
+}
+body {
+    background-color: aquamarine;
+}
